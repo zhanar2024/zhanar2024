@@ -1,5 +1,6 @@
 
- ![alt text](<github-header-image (2).png>)
+ ![alt text](https://github.com/user-attachments/assets/ce2c72ee-2490-4ddc-902c-b6199315cbd0)
+
 
 <!--
 **zhanar2024/zhanar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
